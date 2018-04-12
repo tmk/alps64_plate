@@ -1,14 +1,10 @@
-EESchema Schematic File Version 2
+EESchema Schematic File Version 4
 LIBS:alps64-rescue
 LIBS:keyboard_parts
 LIBS:power
 LIBS:device
-LIBS:transistors
-LIBS:conn
 LIBS:linear
 LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
@@ -23,15 +19,13 @@ LIBS:audio
 LIBS:interface
 LIBS:digital-audio
 LIBS:philips
-LIBS:display
 LIBS:cypress
 LIBS:siliconi
 LIBS:opto
 LIBS:atmel
 LIBS:contrib
-LIBS:valves
 LIBS:alps64-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -175,7 +169,7 @@ F 3 "" H 7300 2475 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L CONN_01X01 P1
+L CONN_01X01-RESCUE-alps64 P1
 U 1 1 577A88AD
 P 7300 2225
 F 0 "P1" H 7300 2325 50  0000 C CNN

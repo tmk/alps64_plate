@@ -7,12 +7,12 @@ Also check the first post of [Alps64 PCB thread](https://geekhack.org/index.php?
 ### alps64_plate_aek_flip_spacebar.dxf
 Its dimensions is 95x285mm and total length of all paths is 4492mm for reference.
 This supports 'flipped' and Dutch AEK spacebar in addition to US. This is preferable in most cases.
-![](https://raw.githubusercontent.com/tmk/alps64_plate/plate_aek_flip_spacebar/alps64_plate_aek.png)
+![](https://raw.githubusercontent.com/tmk/alps64_plate/plate_aek_flip_spacebar/alps64_plate_aek_flip_spacebar.png)
 
 ### alps64_plate_aek.dxf
-Its dimensions is 95x285mm and total length of all paths is 4493mm for reference.
+Its dimensions is 95x285mm and total length of all paths is 4423mm for reference.
 This is plain design for US AEK.
-![](https://raw.githubusercontent.com/tmk/alps64_plate/plate_aek_flip_spacebar/alps64_plate_aek_flip_spacebar.png)
+![](https://raw.githubusercontent.com/tmk/alps64_plate/plate_aek_flip_spacebar/alps64_plate_aek.png)
 
 
 
